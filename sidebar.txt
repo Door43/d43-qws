@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[qws:home|Door43 (qws)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-qws|d43-qws repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-qws/archive/master.zip|d43-qws.zip]]
+
+**Recent Changes**
+{{changes>ns = qws}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/qws|Ethnologue data]]
+
